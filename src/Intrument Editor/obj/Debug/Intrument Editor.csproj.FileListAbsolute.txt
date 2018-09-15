@@ -1,0 +1,11 @@
+C:\Users\pgmok\source\repos\Intrument Editor\Intrument Editor\obj\Debug\Intrument Editor.csprojResolveAssemblyReference.cache
+C:\Users\pgmok\source\repos\Intrument Editor\Intrument Editor\obj\Debug\Intrument_Editor.Properties.Resources.resources
+C:\Users\pgmok\source\repos\Intrument Editor\Intrument Editor\obj\Debug\Intrument Editor.csproj.GenerateResource.Cache
+C:\Users\pgmok\source\repos\Intrument Editor\Intrument Editor\obj\Debug\Intrument Editor.csproj.CoreCompileInputs.cache
+C:\Users\pgmok\source\repos\Intrument Editor\Intrument Editor\bin\Debug\Intrument Editor.exe.config
+C:\Users\pgmok\source\repos\Intrument Editor\Intrument Editor\bin\Debug\Intrument Editor.exe
+C:\Users\pgmok\source\repos\Intrument Editor\Intrument Editor\bin\Debug\Intrument Editor.pdb
+C:\Users\pgmok\source\repos\Intrument Editor\Intrument Editor\obj\Debug\Intrument Editor.exe
+C:\Users\pgmok\source\repos\Intrument Editor\Intrument Editor\obj\Debug\Intrument Editor.pdb
+C:\Users\pgmok\source\repos\Intrument Editor\Intrument Editor\obj\Debug\Intrument_Editor.IntrumentInterface.resources
+C:\Users\pgmok\source\repos\Intrument Editor\Intrument Editor\obj\Debug\Intrument_Editor.Settings.resources
